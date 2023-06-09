@@ -23,9 +23,8 @@ body {
   margin: 0;
 }
 
-.humb {
+.humb{
   display: flex;
-  list-style-type: none;
 }
 
 .mobile-menu-items a {
@@ -531,6 +530,11 @@ ul.sub-list {
 }
 
 @media (min-width: 600px) {
+  .humb {
+    display: none;
+    list-style-type: none;
+  }
+
   .menu-overlay {
     display: none;
   }
