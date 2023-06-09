@@ -1,84 +1,59 @@
 const getProjectDetails = (project) => {
   const projectDetails = {
     Tonic: {
-      name: 'Tonic',
-      details: ['CANOPY', 'Backend', '2015', 'Dev'],
+      name: 'Online Course',
+      details: ['Courses', 'Fullstack dev', '2022'],
       description:
-        `'Lorem Ipsum is simply dummy text of the printing and typesetting'
-         "industry. Lorem Ipsum has been the industry's standard dummy text"
-         'ever since the 1500s, when an unknown printer took a galley of type'
-         'and scrambled it 1960s with the releaLorem Ipsum is simply dummy'
-         'text of the printing and typesetting industry. Lorem Ipsum has been'
-         "the industry's standard dummy text ever since the 1500s, when an"
-         'unknown printer took a galley of type and scrambled it 1960s with'
-         'the releorem Ipsum is simply dummy text of the printing and'
-         'typesetting industry. Lorem Ipsum han printer took a galley of type'`,
+        `The Capstone project for the 1st module on Microverse.
+         This project built with HTML, Bootstrap, CSS, and JavaScript.`,
       image:
-        '<img src="./src-image/Snapshoot-Portfolio.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+        '<img src="../src-image/Screenshot.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
-      live_server: 'https://github.com/',
-      source: 'https://github.com/',
+      live_server: 'https://karam084.github.io/online-courses-capstone/',
+      source: 'https://github.com/karam084/online-courses-capstone',
     },
 
     360: {
-      name: 'Facebook 360',
-      details: ['Facebook', 'Fullstack dev', '2015'],
+      name: 'Awesome Books',
+      details: ['Books', 'Fullstack dev', '2022'],
       description:
-        `'Lorem Ipsum is simply dummy text of the printing and typesetting'
-         "industry. Lorem Ipsum has been the industry's standard dummy text"
-         'ever since the 1500s, when an unknown printer took a galley of type'
-         'and scrambled it 1960s with the releaLorem Ipsum is simply dummy'
-         'text of the printing and typesetting industry. Lorem Ipsum has been'
-         "the industry's standard dummy text ever since the 1500s, when an"
-         'unknown printer took a galley of type and scrambled it 1960s with'
-         'the releorem Ipsum is simply dummy text of the printing and'
-         'typesetting industry. Lorem Ipsum han printer took a galley of type'`,
+        `This is web app that allows users to enter information about their favorite books. 
+        Data displayed on the UI depends on the local storage. The data entered by the user are stored in local storage and can be removed from localStorage. 
+        This is a crud application and it is build with JavaScript, HTML and CSS.`,
       image:
-        '<img src="./src-image/Snapshoot-Portfolio2.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+        '<img src="../src-image/awesomebooks.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
-      live_server: 'https://github.com/',
-      source: 'https://github.com/',
+      live_server: 'https://karam084.github.io/awesome-books-es6/',
+      source: 'https://github.com/karam084/awesome-books-es6',
     },
 
     Uber: {
-      name: 'Uber Navigation',
-      details: ['Uber', 'Lead Developer', '2018'],
+      name: 'ToDoList',
+      details: ['ToDoList', 'Frontend Developer', '2022'],
       description:
-        `Lorem Ipsum is simply dummy text of the printing and typesetting'
-         "industry. Lorem Ipsum has been the industry's standard dummy text"
-         'ever since the 1500s, when an unknown printer took a galley of type'
-         'and scrambled it 1960s with the releaLorem Ipsum is simply dummy'
-         'text of the printing and typesetting industry. Lorem Ipsum has been'
-         "the industry's standard dummy text ever since the 1500s, when an"
-         'unknown printer took a galley of type and scrambled it 1960s with'
-         'the releorem Ipsum is simply dummy text of the printing and'
-         'typesetting industry. Lorem Ipsum han printer took a galley of type`,
+        `To Do List is a single page web app that lets users manage a simple list of tasks.
+         Users can add and remove tasks from the list. It was coded using standard technologies like HTML5,
+          CSS3 and JavaScript; and has an object-oriented approach using a model view presenter pattern.`,
 
       image:
-        '<img src="./src-image/Snapshoot-portfolio3.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+        '<img src="../src-image/todolist.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
-      live_server: 'https://github.com/',
-      source: 'https://github.com/',
+      live_server: 'https://karam084.github.io/ToDoList/src',
+      source: 'https://github.com/karam084/ToDoList',
     },
 
     Stories: {
-      name: 'Multi purpose stories',
-      details: ['Facebook', 'Backend', '2021'],
+      name: 'Budget App',
+      details: ['Budget', 'Backend', '2023'],
       description:
-        `'Lorem Ipsum is simply dummy text of the printing and typesetting'
-         "industry. Lorem Ipsum has been the industry's standard dummy text"
-         'ever since the 1500s, when an unknown printer took a galley of type'
-         'and scrambled it 1960s with the releaLorem Ipsum is simply dummy'
-         'text of the printing and typesetting industry. Lorem Ipsum has been'
-         "the industry's standard dummy text ever since the 1500s, when an"
-         'unknown printer took a galley of type and scrambled it 1960s with'
-         'the releorem Ipsum is simply dummy text of the printing and'
-         'typesetting industry. Lorem Ipsum han printer took a galley of type'`,
+        `A budget app built with Ruby on Rails and PostgreSQL.
+         After signing in the user is able to add categories and see how much has been spent in each added category. 
+         Can add transactions after selecting the category that they fell under and assign more categories.`,
       image:
-        '<img src="./src-image/Snapshoot-Portfolio1.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
-      technologies: ['HTML', 'Javascript', 'CSS'],
-      live_server: 'https://github.com/',
-      source: 'https://github.com/',
+        '<img src="../src-image/budget.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+      technologies: ['HTML', 'Javascript', 'Rails'],
+      live_server: 'https://budget-app-ohsx.onrender.com/',
+      source: 'https://github.com/karam084/budget-app',
     },
   };
 

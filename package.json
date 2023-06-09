@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/karam084/portfolio/issues"
   },
-  "homepage": "https://github.com/karam084/portfolio#readme"
+  "homepage": "https://github.com/karam084/portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
 }

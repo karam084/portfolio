@@ -24,7 +24,7 @@ body {
 }
 
 .humb {
-  display: none;
+  display: flex;
   list-style-type: none;
 }
 
@@ -140,8 +140,14 @@ body {
 }
 
 .project-image {
-  width: 100%;
-  height: auto;
+  width: 75%;
+  height:90%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: 1px solid #dfe1e6;
+
 }
 
 .project-description {
