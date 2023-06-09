@@ -7,7 +7,7 @@ const getProjectDetails = (project) => {
         `The Capstone project for the 1st module on Microverse.
          This project built with HTML, Bootstrap, CSS, and JavaScript.`,
       image:
-        '<img src="../src-image/Screenshot.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+        '<img src="./src-image/Screenshot.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
       live_server: 'https://karam084.github.io/online-courses-capstone/',
       source: 'https://github.com/karam084/online-courses-capstone',
@@ -21,7 +21,7 @@ const getProjectDetails = (project) => {
         Data displayed on the UI depends on the local storage. The data entered by the user are stored in local storage and can be removed from localStorage. 
         This is a crud application and it is build with JavaScript, HTML and CSS.`,
       image:
-        '<img src="../src-image/awesomebooks.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+        '<img src="./src-image/awesomebooks.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
       live_server: 'https://karam084.github.io/awesome-books-es6/',
       source: 'https://github.com/karam084/awesome-books-es6',
@@ -36,7 +36,7 @@ const getProjectDetails = (project) => {
           CSS3 and JavaScript; and has an object-oriented approach using a model view presenter pattern.`,
 
       image:
-        '<img src="../src-image/todolist.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+        '<img src="./src-image/todolist.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
       live_server: 'https://karam084.github.io/ToDoList/src',
       source: 'https://github.com/karam084/ToDoList',
@@ -50,7 +50,7 @@ const getProjectDetails = (project) => {
          After signing in the user is able to add categories and see how much has been spent in each added category. 
          Can add transactions after selecting the category that they fell under and assign more categories.`,
       image:
-        '<img src="../src-image/budget.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+        '<img src="./src-image/budget.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'Rails'],
       live_server: 'https://budget-app-ohsx.onrender.com/',
       source: 'https://github.com/karam084/budget-app',
