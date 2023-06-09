@@ -5,7 +5,11 @@ portfolio
 
 > One paragraph statement about the project.
 
-![screenshot]()
+![screenshot](https://github.com/karam084/portfolio/assets/77942746/4a500e75-01c6-45d9-b13d-867495caa9f7)
+
+![screenshot](https://github.com/karam084/portfolio/assets/77942746/9aaf1a02-e6f3-4533-9116-96192c1a6b58)
+
+![screenshot](https://github.com/karam084/portfolio/assets/77942746/279184d9-4d02-4506-8952-188f65fbc7bc)
 
 Additional description about the project and its features.
 
@@ -17,7 +21,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link]( https://karam084.github.io/portfolio/)
 
 ### Deployment
 
