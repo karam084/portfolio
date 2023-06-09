@@ -4,15 +4,15 @@ const getProjectDetails = (project) => {
       name: 'Tonic',
       details: ['CANOPY', 'Backend', '2015', 'Dev'],
       description:
-        'Lorem Ipsum is simply dummy text of the printing and typesetting'
-        + "industry. Lorem Ipsum has been the industry's standard dummy text"
-        + 'ever since the 1500s, when an unknown printer took a galley of type'
-        + 'and scrambled it 1960s with the releaLorem Ipsum is simply dummy'
-        + 'text of the printing and typesetting industry. Lorem Ipsum has been'
-        + "the industry's standard dummy text ever since the 1500s, when an"
-        + 'unknown printer took a galley of type and scrambled it 1960s with'
-        + 'the releorem Ipsum is simply dummy text of the printing and'
-        + 'typesetting industry. Lorem Ipsum han printer took a galley of type',
+        `'Lorem Ipsum is simply dummy text of the printing and typesetting'
+         "industry. Lorem Ipsum has been the industry's standard dummy text"
+         'ever since the 1500s, when an unknown printer took a galley of type'
+         'and scrambled it 1960s with the releaLorem Ipsum is simply dummy'
+         'text of the printing and typesetting industry. Lorem Ipsum has been'
+         "the industry's standard dummy text ever since the 1500s, when an"
+         'unknown printer took a galley of type and scrambled it 1960s with'
+         'the releorem Ipsum is simply dummy text of the printing and'
+         'typesetting industry. Lorem Ipsum han printer took a galley of type'`,
       image:
         '<img src="./src-image/Snapshoot-Portfolio.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
@@ -24,15 +24,15 @@ const getProjectDetails = (project) => {
       name: 'Facebook 360',
       details: ['Facebook', 'Fullstack dev', '2015'],
       description:
-        'Lorem Ipsum is simply dummy text of the printing and typesetting'
-        + "industry. Lorem Ipsum has been the industry's standard dummy text"
-        + 'ever since the 1500s, when an unknown printer took a galley of type'
-        + 'and scrambled it 1960s with the releaLorem Ipsum is simply dummy'
-        + 'text of the printing and typesetting industry. Lorem Ipsum has been'
-        + "the industry's standard dummy text ever since the 1500s, when an"
-        + 'unknown printer took a galley of type and scrambled it 1960s with'
-        + 'the releorem Ipsum is simply dummy text of the printing and'
-        + 'typesetting industry. Lorem Ipsum han printer took a galley of type',
+        `'Lorem Ipsum is simply dummy text of the printing and typesetting'
+         "industry. Lorem Ipsum has been the industry's standard dummy text"
+         'ever since the 1500s, when an unknown printer took a galley of type'
+         'and scrambled it 1960s with the releaLorem Ipsum is simply dummy'
+         'text of the printing and typesetting industry. Lorem Ipsum has been'
+         "the industry's standard dummy text ever since the 1500s, when an"
+         'unknown printer took a galley of type and scrambled it 1960s with'
+         'the releorem Ipsum is simply dummy text of the printing and'
+         'typesetting industry. Lorem Ipsum han printer took a galley of type'`,
       image:
         '<img src="./src-image/Snapshoot-Portfolio2.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
