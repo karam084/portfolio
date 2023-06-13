@@ -7,7 +7,7 @@ const getProjectDetails = (project) => {
         `The Capstone project for the 1st module on Microverse.
          This project built with HTML, Bootstrap, CSS, and JavaScript.`,
       image:
-        '<img src="./src-image/Screenshot.png" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
+        '<img src="./src-image/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" alt="Tonic project screenshot" class="popup-project-image" id="popup-project-image">',
       technologies: ['HTML', 'Javascript', 'CSS'],
       live_server: 'https://karam084.github.io/online-courses-capstone/',
       source: 'https://github.com/karam084/online-courses-capstone',
