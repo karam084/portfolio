@@ -103,7 +103,7 @@ seeProjectButton.forEach((element) => {
     });
 
     document.getElementById('see-source-btn').addEventListener('click', () => {
-      window.location.href = (projectDetails.source.open());
+      window.location.href = (projectDetails.source);
     });
   });
 });
