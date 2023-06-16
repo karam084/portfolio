@@ -303,6 +303,14 @@ ul.sub-list {
   border-color: #dfe1e6;
 }
 
+.skils {
+  margin-left: 40px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #344563;
+  line-height: 24px;
+}
+
 .about-me-text {
   font-family: 'PoppinsLight', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 400;
@@ -368,7 +376,6 @@ ul.sub-list {
 .submit {
   display: flex;
   text-align: center;
-  align-items: flex-start;
 }
 
 .menu-overlay {
