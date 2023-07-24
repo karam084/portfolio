@@ -1,9 +1,6 @@
 
-# Project Name
+# portfoli
 
-portfolio
-
-> One paragraph statement about the project.
 
 ![screenshot]()
 
