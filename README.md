@@ -1,16 +1,13 @@
 
 # portfoli
 
-
-![screenshot]()
-
-Additional description about the project and its features.
+Additional description of the project and its features.
 
 ## Built With
 
-- html and css
-- Figma framewor
-- Visual studio and github
+- HTML and CSS
+- Figma framework
+- Visual Studio and GitHub
 
 ## Live Demo
 
