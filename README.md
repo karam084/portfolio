@@ -6,6 +6,7 @@ Additional description of the project and its features.
 ## Built With
 
 - HTML and CSS
+- Bootstrap
 - Figma framework
 - Visual Studio and GitHub
 
